@@ -33,7 +33,6 @@ int main(){
         Draw(width, height, head_X, head_Y, fruit_X, fruit_Y, score);
         Input(gameOver);
         Logic(head_X, head_Y, gameOver, width, height, fruit_X, fruit_Y, score);
-        // sleep for 0.1 second
         usleep(100000);
     }
 
