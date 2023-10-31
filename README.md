@@ -13,3 +13,5 @@ How to run:
 ```
 $ ./build/snake
 ```
+
+![ezgif-1-9c983354df](https://github.com/KularatnaS/snake-cpp/assets/75441376/aefa1f00-097b-4369-8e3c-74441edb61f7)
