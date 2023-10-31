@@ -1,0 +1,1 @@
+void Draw(int width, int height, int head_X, int head_Y, int fruit_X, int fruit_Y, int score);

@@ -1,0 +1,1 @@
+void Logic(int &head_X, int &head_Y, bool &gameOver, int width, int height, int &fruit_X, int &fruit_Y, int &score);
